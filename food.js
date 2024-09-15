@@ -8,6 +8,11 @@ function sayMyDrink(){
     return drink
 }
 
+function sayMyFavMusic(){
+    let music = "Enya"
+    return music
+}
+
 function sayMyPet(){
     let pet = "cat"
     return pet
